@@ -9,7 +9,7 @@ This script makes text editor "mi" to use Zen-Coding, powerful abbreviation feat
 1. Install **SSSCoding.pm**. Download from [SSSCoding.pm][SSSCPM] site. SSSCoding.pm is an Zen-Coding implementation in Perl.
 2. Make sure your Perl Library Path. You can find it with a script on the terminal like `perl -e 'print $i++ . ":" . "$_\n" foreach @INC'`.
 3. Copy or move SSSCoding.pm module into your Perl Library.
-4. Install **zencoding.scpt**. Copy or move the workflow file into `~/Library/Application Support/mi/mode/**Normal**/tool` in case that you want to use it '**Normal**' mode. You can change it according to **your mode**.
+4. Install **zencoding.scpt**. Copy or move the workflow file into `~/Library/Application Support/mi/mode/Normal/tool` in case that you want to use it '**Normal**' mode. You can change it according to **your mode**.
 
 
 ## Thanks ##
