@@ -1,6 +1,6 @@
 # ZenCoding for mi #
 
-This script makes text editor "mi" to use Zen-Coding, powerful abbreviation features for HTML, CSS coding.
+This script enalbes text editor "mi" to use Zen-Coding, powerful abbreviation features for HTML, CSS coding.
 
 - Requirements: [SSSCoding.pm][SSSCPM], [mi](http://www.mimikaki.net/), Mac OS X 10.7 or higher
 
